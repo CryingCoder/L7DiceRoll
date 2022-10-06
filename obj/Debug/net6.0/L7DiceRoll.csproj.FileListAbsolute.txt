@@ -1,0 +1,15 @@
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\L7DiceRoll\bin\Debug\net6.0\L7DiceRoll.exe
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\L7DiceRoll\bin\Debug\net6.0\L7DiceRoll.deps.json
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\L7DiceRoll\bin\Debug\net6.0\L7DiceRoll.runtimeconfig.json
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\L7DiceRoll\bin\Debug\net6.0\L7DiceRoll.dll
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\L7DiceRoll\bin\Debug\net6.0\L7DiceRoll.pdb
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\L7DiceRoll\obj\Debug\net6.0\L7DiceRoll.csproj.AssemblyReference.cache
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\L7DiceRoll\obj\Debug\net6.0\L7DiceRoll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\L7DiceRoll\obj\Debug\net6.0\L7DiceRoll.AssemblyInfoInputs.cache
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\L7DiceRoll\obj\Debug\net6.0\L7DiceRoll.AssemblyInfo.cs
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\L7DiceRoll\obj\Debug\net6.0\L7DiceRoll.csproj.CoreCompileInputs.cache
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\L7DiceRoll\obj\Debug\net6.0\L7DiceRoll.dll
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\L7DiceRoll\obj\Debug\net6.0\refint\L7DiceRoll.dll
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\L7DiceRoll\obj\Debug\net6.0\L7DiceRoll.pdb
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\L7DiceRoll\obj\Debug\net6.0\L7DiceRoll.genruntimeconfig.cache
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\L7DiceRoll\obj\Debug\net6.0\ref\L7DiceRoll.dll
